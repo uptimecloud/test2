@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_rest_message_fn">
+    <sys_rest_message_fn action="INSERT_OR_UPDATE">
+        <authentication_type/>
+        <basic_auth_password/>
+        <basic_auth_profile/>
+        <basic_auth_user/>
+        <content/>
+        <function_name>put</function_name>
+        <lock>false</lock>
+        <oauth2_profile/>
+        <protocol_name/>
+        <rest_endpoint>https://www.bpoint.com.au/webapi/v2/</rest_endpoint>
+        <rest_message display_value="BPoint">9da012b30f7a2200bb9665ba32050eaa</rest_message>
+        <sys_class_name>sys_rest_message_fn</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-11-07 05:00:07</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>4432defb0f3a2200bb9665ba32050ece</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>put</sys_name>
+        <sys_package display_value="Play" source="x_79929_play">875fce7b0f3a2200bb9665ba32050e6e</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Play">875fce7b0f3a2200bb9665ba32050e6e</sys_scope>
+        <sys_update_name>sys_rest_message_fn_4432defb0f3a2200bb9665ba32050ece</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-11-07 05:00:07</sys_updated_on>
+        <use_basic_auth>false</use_basic_auth>
+        <use_mid_server/>
+        <use_mutual_auth>false</use_mutual_auth>
+    </sys_rest_message_fn>
+</record_update>
